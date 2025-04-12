@@ -15,7 +15,7 @@ def init_check_pass():
 
 
 env_file_path = Path('env/password.env')
-# Define the content you want to write to the .env file
+
 
 
 def main():
